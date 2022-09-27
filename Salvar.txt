@@ -1,0 +1,37 @@
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                           
+Null deviance        31.061
+Df Null deviance     39.000
+-----                      
+Treatment effects          
+Residual deviance    27.042
+Df residual deviance 36.000
+p-value(Chisq)        0.259
+-----                      
+Block effects              
+Residual deviance    22.660
+Df residual deviance 27.000
+p-value(Chisq)        0.885
+-----                      
+AIC                  85.274
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                   trat      rate        SE    asymp.LCL
+Testemunha                   Testemunha 0.7123058 0.2648032  0.193301048
+Padrao_FMT                   Padrao_FMT 0.3561529 0.1827178 -0.001967418
+Ballagro_Integrado   Ballagro_Integrado 0.4451912 0.2055616  0.042297896
+Ballagro_Biológicos Ballagro_Biológicos 0.1780765 0.1275706 -0.071957309
+                    asymp.UCL .group
+Testemunha          1.2313106      a
+Padrao_FMT          0.7142733      a
+Ballagro_Integrado  0.8480844      a
+Ballagro_Biológicos 0.4281102      a

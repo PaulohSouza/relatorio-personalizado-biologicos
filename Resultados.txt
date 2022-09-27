@@ -1,0 +1,86 @@
+Resultado - 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                           
+Null deviance        27.174
+Df Null deviance     39.000
+-----                      
+Treatment effects          
+Residual deviance    21.146
+Df residual deviance 36.000
+p-value(Chisq)        0.110
+-----                      
+Block effects              
+Residual deviance    10.607
+Df residual deviance 27.000
+p-value(Chisq)        0.309
+-----                      
+AIC                  49.221
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                   trat         rate
+Testemunha                   Testemunha 3.598386e-05
+Padrao_FMT                   Padrao_FMT 8.995965e-06
+Ballagro_Integrado   Ballagro_Integrado 1.799193e-05
+Ballagro_Biológicos Ballagro_Biológicos 1.013924e-13
+                              SE     asymp.LCL    asymp.UCL
+Testemunha          8.902372e-02 -1.744473e-01 1.745193e-01
+Padrao_FMT          2.225593e-02 -4.361183e-02 4.362982e-02
+Ballagro_Integrado  4.451186e-02 -8.722365e-02 8.725963e-02
+Ballagro_Biológicos 6.312478e-10 -1.237122e-09 1.237324e-09
+                    .group
+Testemunha               a
+Padrao_FMT               a
+Ballagro_Integrado       a
+Ballagro_Biológicos      a
+Resultado - 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                           
+Null deviance        27.174
+Df Null deviance     39.000
+-----                      
+Treatment effects          
+Residual deviance    21.146
+Df residual deviance 36.000
+p-value(Chisq)        0.110
+-----                      
+Block effects              
+Residual deviance    10.607
+Df residual deviance 27.000
+p-value(Chisq)        0.309
+-----                      
+AIC                  49.221
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                   trat         rate
+Testemunha                   Testemunha 3.598386e-05
+Padrao_FMT                   Padrao_FMT 8.995965e-06
+Ballagro_Integrado   Ballagro_Integrado 1.799193e-05
+Ballagro_Biológicos Ballagro_Biológicos 1.013924e-13
+                              SE     asymp.LCL    asymp.UCL
+Testemunha          8.902372e-02 -1.744473e-01 1.745193e-01
+Padrao_FMT          2.225593e-02 -4.361183e-02 4.362982e-02
+Ballagro_Integrado  4.451186e-02 -8.722365e-02 8.725963e-02
+Ballagro_Biológicos 6.312478e-10 -1.237122e-09 1.237324e-09
+                    .group
+Testemunha               a
+Padrao_FMT               a
+Ballagro_Integrado       a
+Ballagro_Biológicos      a
