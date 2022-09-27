@@ -1,1 +1,1 @@
-Rscript.exe -e "shiny::runApp('C:/RBase/Modelo_padrao_input', launch.browser = TRUE)
+Rscript.exe -e "shiny::runApp('C:/RBase/Modelo_padrao_input/relatorio-personalizado-biologicos', launch.browser = TRUE)
