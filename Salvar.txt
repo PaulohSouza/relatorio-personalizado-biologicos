@@ -3143,3 +3143,3518 @@ Testemunha          1.1571056      a
 Padrao_FMT          0.6630708      a
 Ballagro_Integrado  0.7904805      a
 Ballagro_Biológicos 0.3923615      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        751.440
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    513.993
+Df residual deviance  36.000
+p-value(Chisq)         0.005
+-----                       
+Block effects               
+Residual deviance    401.992
+Df residual deviance  27.000
+p-value(Chisq)         0.738
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE  asymp.LCL asymp.UCL
+Testemunha                 Testemunha  9.421492 4.081627  1.4216502 17.421334
+Padrão_FMT                 Padrão_FMT  1.712999 1.668125 -1.5564671  4.982464
+Koppert_Integrado   Koppert_Integrado  5.138996 2.945582 -0.6342389 10.912230
+Koppert_Biológicos Koppert_Biológicos 19.699484 6.213840  7.5205814 31.878386
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        768.880
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    471.407
+Df residual deviance  36.000
+p-value(Chisq)         0.000
+-----                       
+Block effects               
+Residual deviance    288.218
+Df residual deviance  27.000
+p-value(Chisq)         0.026
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat         rate           SE     asymp.LCL
+Testemunha                 Testemunha 8.156769e-01 3.919194e+02 -7.673322e+02
+Padrão_FMT                 Padrão_FMT 3.014967e-09 1.218998e-05 -2.388891e-05
+Koppert_Integrado   Koppert_Integrado 8.156769e-01 3.919194e+02 -7.673322e+02
+Koppert_Biológicos Koppert_Biológicos 2.718923e+00 1.306398e+03 -2.557773e+03
+                      asymp.UCL .group
+Testemunha         7.689635e+02      a
+Padrão_FMT         2.389494e-05      a
+Koppert_Integrado  7.689635e+02      a
+Koppert_Biológicos 2.563211e+03      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        774.992
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    547.315
+Df residual deviance  36.000
+p-value(Chisq)         0.001
+-----                       
+Block effects               
+Residual deviance    375.274
+Df residual deviance  27.000
+p-value(Chisq)         0.209
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate        SE   asymp.LCL asymp.UCL
+Testemunha                 Testemunha 1.3466811 297.91501  -582.55600  585.2494
+Padrão_FMT                 Padrão_FMT 0.1683351  37.23985   -72.82043   73.1571
+Koppert_Integrado   Koppert_Integrado 1.0100108 223.43639  -436.91727  438.9373
+Koppert_Biológicos Koppert_Biológicos 3.3667027 744.78670 -1456.38841 1463.1218
+                   .group
+Testemunha              a
+Padrão_FMT              a
+Koppert_Integrado       a
+Koppert_Biológicos      a
+
+
+-----------------------------------------------------------------
+Analysis of deviance
+-----------------------------------------------------------------
+                            
+Null deviance        471.060
+Df Null deviance      39.000
+-----                       
+Treatment effects           
+Residual deviance    361.824
+Df residual deviance  36.000
+p-value(Chisq)         0.014
+-----                       
+Block effects               
+Residual deviance    299.770
+Df residual deviance  27.000
+p-value(Chisq)         0.733
+-----                       
+AIC                         
+
+
+
+
+-----------------------------------------------------------------
+Multiple Comparison Test
+-----------------------------------------------------------------
+                                 trat      rate       SE asymp.LCL asymp.UCL
+Testemunha                 Testemunha 18.225681 4.273946  9.848900  26.60246
+Padrão_FMT                 Padrão_FMT  9.592464 3.084947  3.546080  15.63885
+Koppert_Integrado   Koppert_Integrado 13.429449 3.658426  6.259066  20.59983
+Koppert_Biológicos Koppert_Biológicos 27.818145 5.309760 17.411206  38.22508
+                   .group
+Testemunha             ab
+Padrão_FMT              b
+Koppert_Integrado      ab
+Koppert_Biológicos     a 

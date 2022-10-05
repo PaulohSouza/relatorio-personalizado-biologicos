@@ -131,7 +131,7 @@ ui <-navbarPage("Relatório Biológicos", windowTitle = 'FMT Análises', collaps
                                               selected = ','),
                                  
                                  ### Exibições personalizadas
-                                 htmlOutput("IN_MENU_EXIBICAO_GRUPO"),
+                                 #htmlOutput("IN_MENU_EXIBICAO_GRUPO"),
                                  htmlOutput("IN_MENU_SELECAO_GRUPO"),
                                  htmlOutput("IN_MENU_SELECAO_TRATAMENTO"),
                                  htmlOutput("IN_MENU_SELECAO_REP"),

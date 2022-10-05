@@ -1,5 +1,4 @@
 
-
 library(shiny)
 library(xlsx)
 library(tidyverse)
@@ -128,7 +127,7 @@ shinyServer(function(input, output, session) {
       )
       
     }
-    vals$x <- df
+    vals$x <- as.data.frame(df)
   })
   ################################################
   ############# Visualizando tabela de dados  ####
@@ -200,11 +199,11 @@ shinyServer(function(input, output, session) {
     dados <- vals$x
     if(!is.null(dados)){
       
-      conditionalPanel(condition = "input.IN_EXIBIR_GRUPO",
-                       selectInput("IN_GRUPOS", label = "Qual a coluna de grupos: ",
-                                   choices = names(dados),
-                                   selected = names(dados[1])))   
+    selectInput("IN_GRUPOS", label = "Qual a coluna de grupos: ",
+                      choices = names(dados),
+                      selected = names(dados[1]))   
     }
+    
   })
   
   
@@ -225,65 +224,71 @@ shinyServer(function(input, output, session) {
     dados <- vals$x
     
     TRATAS <- dados[input$IN_TRATAMENTO]
-    TRAT <- as.factor(unlist(TRATAS))
+    TRAT <- (unlist(TRATAS))
     
     REP <- dados[input$IN_REP]
-    PONTO <- as.factor(unlist(REP))
-    
-    
+    PONTO <- (unlist(REP))
   
     GRUP <- dados[input$IN_GRUPOS]
-    GRUPOS <- as.factor(unlist(GRUP))
+    GRUPOS <- (unlist(GRUP))
     
 
     DAT <- dados[input$IN_DATA]
-    DATA <- as.factor(unlist(DAT))
+    DATA <- (unlist(DAT))
     
     VA <- dados[input$IN_VARIAVEL]   
     VAR <- as.numeric(unlist(VA))
 
     DF <- data.frame(GRUPOS, TRAT, PONTO, DATA, VAR)
-
-    
+ 
     ### Verbatimtext --  Saida todo o resultado
     cat("\n")
     cat("Resumo de análise:")
     cat("\n")
     
     cat("Análise realizada por modelos lineares generalizados considerando distribuição quasipoisson")
+    i = 1
     
-    for(i in 1:length(levels(DF$GRUPOS))){ #1
+    for(i in 1:length(unique(DF$GRUPOS))){ #1
       j = 1
       l = 1
-      for(j in 1:length(levels(DF$DATA))){ ##1
+      DFILTRO <- filter(DF, GRUPOS == unique(DF$GRUPOS)[i])
+  
+      for(j in 1:length(unique(DFILTRO$DATA))){ ##1
         SAIDA <- NULL
         MEDIAS <- NULL
         RESULT <- NULL
         letras <- NULL 
-        
-        BASE_FILTRO <- filter(DF, GRUPOS == levels(DF$GRUPOS)[i], DATA == levels(DF$DATA)[j])
 
+        BASE_FILTRO <- filter(DFILTRO, DATA == unique(DFILTRO$DATA)[j])
+
+
+        BASE_FILTRO$GRUPOS <- as.factor(BASE_FILTRO$GRUPOS)
+       # BASE_FILTRO$TRAT <- as.factor(BASE_FILTRO$TRAT)
+        BASE_FILTRO$DATA <- as.factor(BASE_FILTRO$DATA)
+
+        cat("---------------------------------------------------------------- \n")
         cat("\n")
         cat("GRUPO: ")
-        print(levels(DF$GRUPOS)[i])
-        cat("DATA: ")
-        print(levels(DF$DATA)[j])
-        cat("\n")
-        cat("\n")
-        
+        print(unique(DF$GRUPOS)[i])
+        cat("DATA: \n")
+        print(unique(DF$DATA)[j])
+   
+
         MEDIAS <- aggregate(VAR ~ TRAT, FUN = mean, data = BASE_FILTRO)
         
         sink("Salvar.txt", append = TRUE)
         X <- DBC.glm(BASE_FILTRO$TRAT, BASE_FILTRO$PONTO, BASE_FILTRO$VAR, glm.family = "quasipoisson")
         sink()
         
-        for(l in 1:length(levels(DF$TRAT))){
-          letras <- c(letras, data.frame(strsplit(X$data$letra, " "))[2,l])
-        }
+        letras <- c(str_sub(X$data$letra, start = -2))
+      
         
         RESULT <- data.frame(TRAT = X$data$trat, Letras = letras)
         cat("\n")
         print(merge(MEDIAS, RESULT))
+
+        cat("---------------------------------------------------------------- \n")
         
       }
     }
