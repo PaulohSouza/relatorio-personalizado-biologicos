@@ -245,8 +245,9 @@ shinyServer(function(input, output, session) {
     cat("\n")
     cat("Resumo de análise:")
     cat("\n")
-    
-    cat("Análise realizada por modelos lineares generalizados considerando distribuição quasipoisson")
+    cat("-------------------------------------------------------------------------------------------- \n")
+    cat("Análise realizada por modelos lineares generalizados considerando distribuição quasipoisson \n")
+    cat("--------------------------------------------------------------------------------------------\n")
     i = 1
     
     for(i in 1:length(unique(DF$GRUPOS))){ #1

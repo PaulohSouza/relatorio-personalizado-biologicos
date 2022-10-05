@@ -7,7 +7,7 @@ library(DT)
 library(shinycssloaders)
 
 
-options(shiny.sanitize.errors = TRUE)
+options(shiny.sanitize.errors = FALSE)
 rm(list=ls())
 #################################################
 #### Modelo base para relatório com input de dados ###

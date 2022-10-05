@@ -1,0 +1,13 @@
+name: relatorio-personalizado-biologicos
+title: relatorio-personalizado-biologicos
+username:
+account: fmtscience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7138372
+bundleId: 6369870
+url: https://fmtscience.shinyapps.io/relatorio-personalizado-biologicos/
+when: 1664935891.9886
+lastSyncTime: 1664935891.9886
+asMultiple: FALSE
+asStatic: FALSE
