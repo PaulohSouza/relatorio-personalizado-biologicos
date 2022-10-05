@@ -16,7 +16,7 @@ ui <-navbarPage("Relatório Biológicos", windowTitle = 'FMT Análises', collaps
                 
                 tabPanel
                 (
-                  includeCSS("palatino.css"),
+                  #includeCSS("palatino.css"),
                   
                   " ",
                   sidebarLayout
