@@ -6,7 +6,6 @@ library(DT)
 library(openxlsx)
 library(AgroR)
 
-#dados <- read.xlsx("DADOS.xlsx")
 
 shinyServer(function(input, output, session) {
   
@@ -127,7 +126,7 @@ shinyServer(function(input, output, session) {
       )
       
     }
-    vals$x <- as.data.frame(df)
+    vals$x <- df
   })
   ################################################
   ############# Visualizando tabela de dados  ####
@@ -277,7 +276,7 @@ shinyServer(function(input, output, session) {
    
 
         MEDIAS <- aggregate(VAR ~ TRAT, FUN = mean, data = BASE_FILTRO)
-        
+        setwd("/srv/shiny-server/relatorio-personalizado-biologicos")
         sink("Salvar.txt", append = TRUE)
         X <- DBC.glm(BASE_FILTRO$TRAT, BASE_FILTRO$PONTO, BASE_FILTRO$VAR, glm.family = "quasipoisson")
         sink()
