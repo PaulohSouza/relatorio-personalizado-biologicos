@@ -276,7 +276,6 @@ shinyServer(function(input, output, session) {
    
 
         MEDIAS <- aggregate(VAR ~ TRAT, FUN = mean, data = BASE_FILTRO)
-        setwd("/srv/shiny-server/relatorio-personalizado-biologicos")
         sink("Salvar.txt", append = TRUE)
         X <- DBC.glm(BASE_FILTRO$TRAT, BASE_FILTRO$PONTO, BASE_FILTRO$VAR, glm.family = "quasipoisson")
         sink()
